@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["es5", "es6"],
+    "target": "ESNext",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "rootDir": "./src",
+    "outDir": "./build",
+    "strict": false,
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": false,
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules"]
+}
